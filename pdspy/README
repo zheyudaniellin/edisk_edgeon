@@ -1,0 +1,10 @@
+To use pdspy, make sure you are in the correct conda environment
+
+Type this command in the termal to start
+conda activate pdspy_env
+
+
+Once done, type this in the terminal to go back to the system conda
+conda deactivate
+
+
