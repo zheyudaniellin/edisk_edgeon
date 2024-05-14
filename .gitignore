@@ -1,3 +1,22 @@
+# ignore the compiled code
+*.pyc
+
 # ignore this one
 mcvis
 
+# data files for modeling
+modeling/datafiles/
+
+# old file we don't need. it's just here for reference
+toolbox/image_old.py
+
+# ignore the results from visualization
+visualization/results/
+
+
+# files related to outputs from slurm
+mcmc/job_log.out
+mcmc/job_log_GSS30IRS3.out
+mcmc/job_log_IRS7B-A.out
+mcmc/job_log_L1527.out
+notes_on_slurm.txt
