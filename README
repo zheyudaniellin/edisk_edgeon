@@ -1,0 +1,3 @@
+use this directory to model the edisk data
+
+don't include the mcvis directory in git, because that'll be its own thing
